@@ -1,0 +1,40 @@
+.topprofile {
+    margin-top: 0%;
+    text-align: center;
+    color: rgb(75, 69, 69);
+    font-family: 'avenir', sans-serif;
+    background-color:whitesmoke;
+    top: 0%;
+}
+
+.proff{
+    text-align: center;
+    font-family: 'avenir', sans-serif;
+    color: rgb(75, 69, 69);
+}
+
+body {
+    margin: auto;
+    font-family: 'questrial', sans-serif;   
+    color: #ffffff;
+    background-image: linear-gradient(rgba(247, 247, 244, 0.731), rgb(173, 130, 13));
+  }
+  
+  .img {
+    display: block;
+    width: 15%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+    
+  }
+
+.lowprofile{
+    margin: 0%;
+    padding: 0%;
+    text-align: left;
+    color: rgb(75, 69, 69);
+    font-family: 'avenir', sans-serif;
+    background-color:whitesmoke;
+}
+
