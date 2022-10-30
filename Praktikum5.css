@@ -1,0 +1,78 @@
+.navbar{
+  margin-top: 0%;
+  text-align: right;
+  color : #CFFF8D;
+  font-family: 'avenir', sans-serif;
+  background-color: #749F82;
+  overflow: hidden;
+}
+/* .topprofile {
+    margin-top: 0%;
+    text-align: left;
+    color : black;
+    font-family: 'avenir', sans-serif;
+} */
+
+.proff{
+    text-align: center;
+    font-family: 'avenir', sans-serif;
+    color: #CFFF8D;
+}
+
+.flex-container {
+  display: flex;
+  background-color: DodgerBlue;
+}
+
+.flex-container > div {
+  background-color: #425f57;
+  margin: 10px;
+  padding: 20px;
+  font-size: 30px;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  background-color: #905E96;
+  padding: 1em;
+}
+.grid-item {
+  background-color: rgba(255, 255, 255, 0.8);
+  border: 1px solid rgba(0, 0, 0, 0.8);
+  padding: 20px;
+  font-size: 30px;
+  text-align: center;
+  color: black;
+}
+
+body {
+    margin: auto;
+    font-family: 'questrial', sans-serif;   
+    color: #CFFF8D;
+    background-color: #425F57;
+    
+  }
+  
+  .img {
+    display: block;
+    width: 10%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10%;
+    
+  }
+
+.lowprofile{
+    position: auto;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    text-align: center;
+    color: #425F57;
+    font-family: 'avenir', sans-serif;
+    background-color:#A8E890;
+}
+
+
